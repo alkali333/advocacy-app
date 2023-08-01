@@ -1,0 +1,6 @@
+openai
+langchain
+pypdf
+streamlit
+chromadb
+pysqlite3-binary
